@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579038066375",
+    "project_id": "fitnessapp-21f94",
+    "storage_bucket": "fitnessapp-21f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579038066375:android:58500ae7d764c5610f70e2",
+        "android_client_info": {
+          "package_name": "com.ramindu.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz58jOuR-AjJMOxpV86qrxeVxzNqvUIF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
